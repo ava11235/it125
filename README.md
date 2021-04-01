@@ -78,33 +78,40 @@ Link can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9V
 
 ### Week 1
 Data Literacy
+What is Data?
+What is data Visualization
+Anaconda Development Environment
+
 
 ### Week 2
-
+Python for data visualization
+Data Frames
 
 ### Week 3
-
+Pie Charts, Scatter plots and line charts 
 
 ### Week 4
-
+Descriptive Statistics
 
 ### Week 5
-
+Probability and counting
 
 ### Week 6
-
+Probability distributions
 
 ### Week 7
-
+Inferential Statistics
 
 ### Week 8
-
+Linear Regression
 
 ### Week 9
-
+Time Series
+Monte Carlo Methods
 
 ### Week 10
-
+Data Mining
+Data Ethics
 
 ### Week 11
 Final projects
