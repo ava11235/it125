@@ -78,8 +78,11 @@ Link can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9V
 
 ### Week 1
 Data Literacy
+
 What is Data?
+
 What is data Visualization
+
 Anaconda Development Environment
 
 
