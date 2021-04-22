@@ -21,6 +21,7 @@ Scatter plot and strip plot examples with seaborn
 [Here](https://colab.research.google.com/drive/1DB4HOBEobycXVKneLaD_lcKrnvYxbsB8?usp=sharing)
 
 
+
 ## Reference
 https://seaborn.pydata.org/generated/seaborn.regplot.html
 
