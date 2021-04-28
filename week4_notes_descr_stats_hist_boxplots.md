@@ -4,6 +4,7 @@ zyBooks Ch 2.1 - 2.6
 In statistics we study a set of tools and techniques used for describing, organizing and interpreting data.
 
 **Descriptive statistics** describes the characteristics of a collection of data. For example, describe what is the most popular major for a student population at a college.
+
 **Inferential statistics** provides conclusions (inferences) about populations based on a smaller group (a sample). For example, designing an experiment for a drug trial, including the drug and a placebo,
 and extrapolating for the population of patients based on the result of the experiment.
 
