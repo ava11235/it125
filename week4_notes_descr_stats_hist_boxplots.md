@@ -20,7 +20,7 @@ first quartile, median, third quartile and maximum.  Outliers can also be ident
 **A Histogram** is basically used to visualize numerical data distribution.
 
 ### Example
-[Here](https://colab.research.google.com/drive/1DB4HOBEobycXVKneLaD_lcKrnvYxbsB8?usp=sharing)
+[Here](https://colab.research.google.com/drive/1AYYeuRNloHNsd-loRIBWx4c-EQvu4XB-?usp=sharing)
 
 ## Reference
 
